@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Sivasuryaa</h1>
 <h3 align="center">A Student from India pursuing B.E.Computer Science and Engineering degree in Anna University, Chennai.</h3>
-<img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDkwMzIzMzMsIm5iZiI6MTcwOTAzMjAzMywicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0ODAtMjE5YmNjNzAtZjVkYy00NjZiLTlhNjAtMjk2NTNkOGU4NDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjI3VDExMDcxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNmNjlhNDQ4NGFkNDFjNWIzODFhYjM0Y2M3NDU1YTNiMjE4Y2I1NzJjYjAzYTgyNGQwOWRiOGU1ZDZjNDVjMTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.tdGHoWWsk3qNIe1cA_pfJObTKB-RBSVi70yQX98RWiY">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 - 🌱 I’m currently learning Python
 
 - 👯 I’m looking to collaborate on **AI ML projects**
